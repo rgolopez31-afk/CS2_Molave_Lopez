@@ -16,8 +16,10 @@ The values you have to enter are
 - Y2 (Y coordinate for point 2)
 
 ## Sample Output
-
+![Sample Output](https://github.com/rgolopez31-afk/CS2_Molave_Lopez/blob/main/Screenshot_20260815_104547_com.android.chrome.png)
 
 ## Author
-Name:
-Section:
+``` markdown
+Name: Ronn Gabriel O. Lopez
+Section: 8 - Molave
+```
